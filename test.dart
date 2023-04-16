@@ -3,7 +3,7 @@ void main(List<String> args) {
 }
 
 
-// git clone
+// git clone https://github.com/Mobile-App-Developers-ITNAN-Group/caseStudy1.git
 // git pull
 // git checkout -B <yourname name>/<branch name>
 // git add <the file>.
